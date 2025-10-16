@@ -71,6 +71,7 @@ Y= A⊕B
  RegisterNumber: 25013282
  
 **Logic symbol & Truthtable**
+
 <img width="403" height="359" alt="image" src="https://github.com/user-attachments/assets/9c8cbd88-16cd-46aa-bd7f-c1f4354acb8c" />
 
 
